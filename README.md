@@ -43,9 +43,9 @@
 
 #### Tools:
 
-  [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://python.io/)
+  [<img height="48px" width="48px" alt="Netlify" src="https://skillicons.dev/icons?i=netlify"/>](https://www.netlify.com)
   [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-  [<img height="48px" width="48px" alt="Java Script" src="https://skillicons.dev/icons?i=js"/>](https://www.vim.org/)
+  [<img height="48px" width="48px" alt="Windows" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/en-us/windows)
   [<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 
