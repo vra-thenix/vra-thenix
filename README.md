@@ -53,8 +53,8 @@
 
 ## 📫 Contact Me
 <a href="https://this.is-cool.dev/vra_admis" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=webstorm" alt="webstorm"></a>
-<a href="https://discord.com/users/yourdiscordid" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
-<a href="mailto:your.email@example.com"><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
+<a href="https://discord.com/users/vra_admis" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
+<a href=""><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
 
 ------
 
