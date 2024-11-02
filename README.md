@@ -30,9 +30,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 #### Languages:
-  [<img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>]
-  [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>]
-  [<img height="48px" width="48px" alt="JS" src="https://skillicons.dev/icons?i=js"/>]
+  <img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>
+  <img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>
+  <img height="48px" width="48px" alt="JS" src="https://skillicons.dev/icons?i=js"/>
 
   [<img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>](https://www.oracle.com/java/)
 
