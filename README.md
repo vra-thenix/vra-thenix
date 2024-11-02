@@ -1,11 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=35&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+profile!;I'm+VRA;A+Web+developer+and+Gamer;Curious+about+solving+problems+with+code.)
 
-<h3 align="center">"Strive for Progress, Not Perfection."</h3>
-<h4 align="center">- John Doe -</h4>
+<h3 align="center">"We are just ordinary people driven to revenge in the name of justice."</h3>
+<h4 align="center">- VRA -</h4>
 
 <br>
 <div align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=vra-thenix&label=Profile%20views&style=aura&color=5865F2">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=John Doe&label=Profile%20views&style=aura&color=5865F2">
   <img alt="Discord status" src="https://api.statusbadges.me/badge/status/yourdiscordid?label=Currently&labelColor=5865F2">
   <img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/yourdiscordid?label=Playing">
   <img alt="Currently coding" src="https://api.statusbadges.me/badge/vscode/yourdiscordid?label=Coding">
