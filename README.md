@@ -5,7 +5,7 @@
 
 <br>
 <div align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=johndoe&label=Profile%20views&style=aura&color=5865F2">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&style=aura&color=5865F2">
   <img alt="Discord status" src="https://api.statusbadges.me/badge/status/yourdiscordid?label=Currently&labelColor=5865F2">
   <img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/yourdiscordid?label=Playing">
   <img alt="Currently coding" src="https://api.statusbadges.me/badge/vscode/yourdiscordid?label=Coding">
