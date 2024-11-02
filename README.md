@@ -30,11 +30,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 #### Languages:
-  <img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>
-  <img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>
-  <img height="48px" width="48px" alt="JS" src="https://skillicons.dev/icons?i=js"/>
+  [<img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+  [<img height="48px" width="48px" alt="JS" src="https://skillicons.dev/icons?i=js"/>](https://cplusplus.com/)
+  [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+  [<img height="48px" width="48px" alt="React" src="https://skillicons.dev/icons?i=react"/>](https://www.oracle.com/java/)
 
-  [<img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>](https://www.oracle.com/java/)
 
 #### Currently Learning:
   [<img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
