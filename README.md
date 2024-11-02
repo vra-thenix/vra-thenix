@@ -20,7 +20,7 @@
  <img width=45% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=vra-thenix&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
   <img width=45% align="center" src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=vra-thenix&theme=aura" />
  <br><br>
- <img width=40% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=aura" />
+ <img width=40% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=vra-thenix&layout=compact&theme=aura" />
 </div>
 
 <br>
