@@ -6,11 +6,11 @@
 <br>
 <div align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&style=aura&color=5865F2">
-  <img alt="Discord status" src="ONLINE?label=Currently&labelColor=5865F2">
-  <img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/943169973067599933?label=Playing">
-  <img alt="Currently coding" src="https://api.statusbadges.me/badge/vscode/943169973067599933?label=Coding">
-  <a href="https://api.statusbadges.me/openspotify/943169973067599933" target="_blank" rel="noopener">
-      <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/943169973067599933?label=Listening%20to">
+  <img alt="Discord status" src= "https://api.statusbadges.me/badge/status/885063317079592961?label=Currently&labelColor=5865F2">
+  <img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/885063317079592961?label=Playing">
+  <img alt="Currently coding" src="https://api.statusbadges.me/badge/vscode/885063317079592961?label=Coding">
+  <a href="https://api.statusbadges.me/openspotify/885063317079592961" target="_blank" rel="noopener">
+      <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/885063317079592961?label=Listening%20to">
   </a><br>
 <p align="center">I Do Calsthenics</p>
 
