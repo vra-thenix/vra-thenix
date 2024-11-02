@@ -5,20 +5,20 @@
 
 <br>
 <div align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&style=aura&color=5865F2">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=vra-thenix&label=Profile%20views&style=aura&color=5865F2">
   <img alt="Discord status" src="https://api.statusbadges.me/badge/status/yourdiscordid?label=Currently&labelColor=5865F2">
   <img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/yourdiscordid?label=Playing">
   <img alt="Currently coding" src="https://api.statusbadges.me/badge/vscode/yourdiscordid?label=Coding">
   <a href="https://api.statusbadges.me/openspotify/yourdiscordid" target="_blank" rel="noopener">
       <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/yourdiscordid?label=Listening%20to">
   </a><br>
-<p align="center">I use Ubuntu (by the way)</p>
+<p align="center">I Do Calsthenics</p>
 
 </div>
 <br>
 <div align="center" style="margin-bottom:250px">
- <img width=45% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=yourusername&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
-  <img width=45% align="center" src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=yourusername&theme=aura" />
+ <img width=45% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=vra-thenix&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
+  <img width=45% align="center" src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=vra-thenix&theme=aura" />
  <br><br>
  <img width=40% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=aura" />
 </div>
@@ -41,10 +41,10 @@
   [<img height="48px" width="48px" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
 #### Tools:
-  [<img height="48px" width="48px" alt="Arch" src="https://skillicons.dev/icons?i=arch"/>](https://archlinux.org/)
-  [<img height="48px" width="48px" alt="Neovim" src="https://skillicons.dev/icons?i=neovim"/>](https://neovim.io/)
+
+  [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://python.io/)
   [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-  [<img height="48px" width="48px" alt="Vim" src="https://skillicons.dev/icons?i=vim"/>](https://www.vim.org/)
+  [<img height="48px" width="48px" alt="Java Script" src="https://skillicons.dev/icons?i=js"/>](https://www.vim.org/)
   [<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 
