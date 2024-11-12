@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=35&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+profile!;I'm+VRA;A+Web+developer+and+Gamer;Curious+about+solving+problems+with+code.)
 
 <h3 align="center">"We are just ordinary people driven to revenge in the name of justice."</h3>
-<h4 align="center">- VRA -</h4>
+<h4 align="center">-VRA-</h4>
 
 <br>
 <div align="center">
@@ -55,8 +55,3 @@
 <a href="https://this.is-cool.dev/vra_admis" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=webstorm" alt="webstorm"></a>
 <a href="https://discord.com/users/vra_admis" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
 <a href=""><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
-
-------
-
-Last Edited on: 03/10/2024
-
