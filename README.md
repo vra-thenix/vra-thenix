@@ -12,7 +12,7 @@
   <a href="https://api.statusbadges.me/openspotify/885063317079592961" target="_blank" rel="noopener">
       <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/885063317079592961?label=Listening%20to">
   </a><br>
-<p align="center">I Do Calsthenics</p>
+<p align="center">I Do Calsthenics.</p>
 
 </div>
 <br>
