@@ -12,7 +12,7 @@
   <a href="https://api.statusbadges.me/openspotify/885063317079592961" target="_blank" rel="noopener">
       <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/885063317079592961?label=Listening%20to">
   </a><br>
-<p align="center">I Do Calsthenics.</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4682b4&size=28&center=true&vCenter=true&width=1000&lines=I+Do+Calsthenics.;)
 
 </div>
 <br>
