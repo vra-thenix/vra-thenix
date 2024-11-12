@@ -12,9 +12,8 @@
   <a href="https://api.statusbadges.me/openspotify/885063317079592961" target="_blank" rel="noopener">
       <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/885063317079592961?label=Listening%20to">
   </a><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 </div>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=i+do+calisthenics+)](https://git.io/typing-svg)
 <div align="center" style="margin-bottom:250px">
  <img width=45% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=vra-thenix&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
   <img width=45% align="center" src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=vra-thenix&theme=aura" />
