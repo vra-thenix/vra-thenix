@@ -23,7 +23,7 @@
 
 <br>
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
@@ -49,7 +49,7 @@
 
 <br>
 
-## 📫 Contact Me
+## 📫 Contact Me:
 <a href="https://this.is-cool.dev/vra_admis" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=webstorm" alt="webstorm"></a>
 <a href="https://discord.com/users/vra_admis" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
 <a href=""><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
